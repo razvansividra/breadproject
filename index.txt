@@ -4,3 +4,5 @@ First version of index-v1.
 Upgrade of index-seasonal breads.
 
 Bug fixed-ingredients. 
+
+Second version of index-v2. 
