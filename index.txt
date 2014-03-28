@@ -1,3 +1,6 @@
 Scartch of index. 
 First version of index-v1. 
+
 Upgrade of index-seasonal breads.
+
+Bug fixed-ingredients. 
